@@ -1,0 +1,201 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: url(./images/Rectangle\ 1.png);
+    position: absolute;
+    width: 1440px;
+    height: 831px;
+    /* top: 2589px;
+    left: 1253px; */
+}
+
+.logo{
+    position: absolute;
+    width: 42px;
+    height: 28px;
+    color: #fff;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    margin-left: 115px;
+    margin-top: 73px;
+    /* cursor: pointer; */
+}
+
+.salon{
+    position:absolute;
+    margin-left: 163px;
+    margin-top: 82px;
+    width: 39px;
+    height: 11px;
+    /* background: #fff; */
+    /* border: 1px solid #bdbdbb; */
+}
+
+.home{
+    position:absolute;
+    margin-left: 670px;
+    margin-top: 71px;
+    width: 47px;
+    height: 16px;
+
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #FBB034
+}
+
+.about{
+    position: absolute;
+    margin-left: 767px;
+    margin-top: 71px;
+    width: 71px;
+    height: 16px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #fff;
+}
+
+.serv{
+    position: absolute;
+    width: 63px;
+    height: 16px;
+    /* top:auto-2518px;
+    left: 2257px; */
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #fff;
+    margin-left: 888px;
+    margin-top: 71px;
+}
+
+.con{
+    margin-left: 1004px;
+    margin-top: 71px;
+    position: absolute;
+    width: 63px;
+    height: 16px;
+    /* top:auto-2518px;
+    left: 2257px; */
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #fff;
+}
+
+.btn1{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+    width: 182px;
+    height: 52px;
+    margin-left: 1168px;
+    margin-top: 53px;
+    padding: 18px 53px 18px 53px;
+    background: #FBB034;
+}
+
+#chop{
+    position: absolute;
+    width: 155px;
+    height: 17px;
+    color: orangered;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 106.5%;
+    margin-left: 115px;
+    margin-top: 342px
+}
+
+#Best{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 381px;
+    width: 513px;
+    height: 90px;
+    /* top: -2208px;
+    left: 1368px; */
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    color: #fff;
+}
+
+#Ch_offer{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 493px;
+    width: 389px;
+    height: 66px;
+    /* top: -2096px;
+    left: 1368px; */
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 106.5%;
+    color: #9a9a9a;
+
+}
+
+.btn2{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 18px 53px 18px 53px;
+    gap: 10px;
+    width: 182px;
+    height: 52px;
+    margin-left: 115px;
+    margin-top: 639px;
+    background: #FBB034;
+}
+
+.btn3{
+    position: absolute;
+    background: transparent;
+    width: 182px;
+    height: 53px;
+    margin-left: 337px;
+    margin-top: 639px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+#photo{
+    position: absolute;
+    width: 720px;
+    height: 625px;
+    margin-top: 206px;
+    margin-left: 752.3px;
+}
+
+.chop-img{
+    margin-top: 729px;
+    margin-left: 870px;
+    position: absolute;
+    width: 47px;
+    height: 42px;
+
+    background: linear-gradient(0deg, rgba(76,79,91,0.1), rgba(76,79,91,0.1)),linear-gradient(0deg,rgba(70,73,85,0.4),rgba(70,73,85,0.4),url(./images/Choppers\ Logo\ White\ png\ \(1\)\ 2.png));
+}
